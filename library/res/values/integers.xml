@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="activity_custom_animation_duration">500</integer>
+    <integer name="activity_custom_animation_close_duration">250</integer>
+    <integer name="activity_custom_animation_duration_short">75</integer>
+</resources>
