@@ -5,8 +5,8 @@ GKeepZoomInActivityAnimation is an Open Source Android library project that allo
 
 Setup
 -----
-* In Eclipse, just import the library as an Android library project.
-* Then, just add GKeepZoomInActivityAnimation as dependency to your existing project and you're good to go !
+* In Eclipse, just import the library project.
+* Then, just add library project as dependency to your existing project and you're good to go !
 
 How to Integrate this Library into Your Projects
 ------------------------------------------------
@@ -106,16 +106,16 @@ so B_activity should use custom theme may like that:
 Sample
 ------
 
-If you has other questions, you can see the [Sample Project][1].
+If you has other questions, you can see the sample project.
 
 Developed By
 ------------
-* JohnnyShieh
+* Johnny Shieh - <johnnyshieh@gmail.com>
 
 License
 -------
 
-    Copyright 2013 JohnnyShieh
+    Copyright 2013 Johnny Shieh
     
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -129,4 +129,3 @@ License
     See the License for the specific language governing permissions and
     limitations under the License.
 
-[1]: https://github.com/JohnnyShieh/GKeepZoomInActivityAnimationSample

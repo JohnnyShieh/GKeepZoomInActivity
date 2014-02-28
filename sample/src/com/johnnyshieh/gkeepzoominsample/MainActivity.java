@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2013 JohnnyShieh
+ * Copyright (C) 2013 Johnny Shieh
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -30,7 +30,7 @@ import android.widget.TextView;
 /**
  * @ClassName:  MainActivity
  * @Description:TODO
- * @author  JohnnyShieh
+ * @author  Johnny Shieh
  * @date    December 26, 2013
  */
 public class MainActivity extends Activity {

@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2013 JohnnyShieh
+ * Copyright (C) 2013 Johnny Shieh
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -35,7 +35,7 @@ import android.widget.ImageView;
 /**
  * @ClassName:  ZoomActivityHelper
  * @Description:help to create ZoomIn and ZoomOut animations
- * @author  JohnnyShieh
+ * @author  Johnny Shieh
  * @date    December 26, 2013
  */
 @TargetApi(Build.VERSION_CODES.ICE_CREAM_SANDWICH)
