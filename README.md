@@ -110,7 +110,7 @@ If you has other questions, you can see the sample project.
 
 Developed By
 ------------
-* Johnny Shieh - <johnnyshieh@gmail.com>
+* Johnny Shieh - <johnnyshieh17@gmail.com>
 
 License
 -------
